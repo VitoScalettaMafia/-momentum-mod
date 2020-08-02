@@ -3,9 +3,11 @@
 > Momentum Mod is a free, standalone game built on the Source Engine centralizing the major movement gametypes found in games like Counter-Strike, Half-Life, Team Fortress, and Titanfall.
 
 ## Downloads
-<br> you need to update this manually
-<br> [![Download 6.2](https://img.shields.io/badge/Download-0.6.2-brightgreen)](PUT DOWNLOAD LINK HERE)
-
+<br> you need to update ALL of these manually when updated
+make your own custom one <a href="https://shields.io/#your-badge">Here</a>
+<br> [![Download 6.2](https://img.shields.io/badge/Download-0.6.2-brightgreen)](https://github.com/momentum-mod/game/releases/download/0.6.2/momentum-0.6.2.zip) or [![Download latest release](https://img.shields.io/badge/Download-Latest%20Release-informational)](https://github.com/momentum-mod/game/releases/download/0.6.2/momentum-0.6.2.zip)
+<br> [![compile passed](https://img.shields.io/badge/Compile-%E2%9C%93-success)]() or [![compile failed](https://img.shields.io/badge/Compile-X-critical)]()
+<br> [![build preaplha](https://img.shields.io/badge/Build-prealpha-blueviolet)]()
 ## Contributing
 
 You can read about how to contribute to the development of the mod at the [contributing](.github/CONTRIBUTING.md) section. Just branch off of develop, and keep your branches and commits small!
