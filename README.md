@@ -1,10 +1,11 @@
+you need to update ALL of these manually when updated
+<br>make your own custom badge <a href="https://shields.io/#your-badge">Here</a>
+
 ![Momentum Mod](https://i.imgur.com/iR7p55N.png)
 
 > Momentum Mod is a free, standalone game built on the Source Engine centralizing the major movement gametypes found in games like Counter-Strike, Half-Life, Team Fortress, and Titanfall.
 
 ## Downloads
-you need to update ALL of these manually when updated
-<br>make your own custom badge <a href="https://shields.io/#your-badge">Here</a>
 <br> [![build preaplha](https://img.shields.io/badge/Build-prealpha-blueviolet)]()
 <br> [![Download latest release](https://img.shields.io/badge/Download-Latest%20Release-informational)](https://github.com/momentum-mod/game/releases/download/0.6.2/momentum-0.6.2.zip)
 
