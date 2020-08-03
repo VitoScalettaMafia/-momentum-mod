@@ -1,5 +1,7 @@
-**REMOVE THIS**you need to update ALL of these manually when updated
-<br>make your own custom badge <a href="https://shields.io/#your-badge">Here</a> **REMOVE THIS**
+**REMOVE THIS**
+<br>you need to update ALL of these manually when updated
+<br>make your own custom badge <a href="https://shields.io/#your-badge">Here</a> 
+<br>**REMOVE THIS**
 
 ![Momentum Mod](https://i.imgur.com/iR7p55N.png)
 
