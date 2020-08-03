@@ -12,7 +12,11 @@
 <br> [![Download latest release](https://img.shields.io/badge/Download-Latest%20Release-informational)](https://github.com/momentum-mod/game/releases/download/0.6.2/momentum-0.6.2.zip)
 
 ## Thanks To Our Contributing
-<img src="https://i.ibb.co/ZfvNM8C/Gocnak.png" width="103" height="101"> <img src="https://i.ibb.co/NyYsBQD/Xutax-Kamay.jpg" width="103" height="101"> <img src="https://i.ibb.co/h17JfdK/tuxxi.png" width="103" height="101"> <img src="https://i.ibb.co/GMgjjGH/Rabs-Rincon.jpg" width="103" height="101"> <img src="https://i.ibb.co/YWpjKyQ/braem.png" width="103" height="101">
+<a href="https://github.com/Gocnak"><img src="https://i.ibb.co/ZfvNM8C/Gocnak.png" width="103" height="101"></a> 
+<a href="https://github.com/XutaxKamay"> <img src="https://i.ibb.co/NyYsBQD/Xutax-Kamay.jpg" width="103" height="101"></a> 
+<a href="https://github.com/tuxxi"><img src="https://i.ibb.co/h17JfdK/tuxxi.png" width="103" height="101"></a> 
+<a href="https://github.com/RabsRincon"> <img src="https://i.ibb.co/GMgjjGH/Rabs-Rincon.jpg" width="103" height="101"></a> 
+<a href="https://github.com/braem"> <img src="https://i.ibb.co/YWpjKyQ/braem.png" width="103" height="101"> </a>
 <br> &ensp;&nbsp;[![rank 1st](https://img.shields.io/badge/Rank-1st-brightgreen?style=flat&logo=appveyor)](https://github.com/Gocnak)
 &emsp;&nbsp;[![rank 2nd](https://img.shields.io/badge/Rank-2nd-brightgreen?style=flat&logo=appveyor)](https://github.com/XutaxKamay)
 &emsp;&nbsp;[![rank 3rd](https://img.shields.io/badge/Rank-3rd-brightgreen?style=flat&logo=appveyor)](https://github.com/tuxxi)
